@@ -50,5 +50,15 @@ ul.unique a{
     text-decoration: none;
 }
 
+p.copyright{
+    position:absolute;
+    width: 100%;
+    line-height: 125px;
+    font-size: 0.8em;
+    text-align:left;
+    font-family: Tahoma, Geneva, sans-serif;
+    bottom: 1;
+}
+
 
 
