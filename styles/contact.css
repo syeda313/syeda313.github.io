@@ -44,7 +44,6 @@ h2, h5 {
 
 div.social ul.media{
     display: block;
-    position: absolute;
     list-style-type: none;
     margin: 0;
     padding: 12px 13px;
@@ -54,6 +53,7 @@ div.social ul.media{
     overflow: hidden;
 }
 div.social ul.media{
+    position: static;
     top: 40%;
     left: 50%;
     transform: translate(-50%, 50%);
@@ -61,7 +61,6 @@ div.social ul.media{
 
 div.social ul.media li{
     list-style: none;
-    position: static;
     margin: 2px 2px;
     display:inline-block;
     font-size: 20px;
@@ -81,6 +80,7 @@ div.social ul.media a{
     padding: 10px 16px;
 }
 
+
 div.social ul.media a i.fa-linkedin{
     color: #0077B5
 }
@@ -88,6 +88,7 @@ div.social ul.media a i.fa-linkedin{
 div.social ul.media a i.fa-github{
     color: #211F1F;
 }
+
 
 p.copyright{
     position:absolute;
