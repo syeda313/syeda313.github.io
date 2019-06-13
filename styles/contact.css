@@ -61,6 +61,7 @@ div.social ul.media{
 
 div.social ul.media li{
     list-style: none;
+    position: static;
     margin: 2px 2px;
     display:inline-block;
     font-size: 20px;
@@ -79,7 +80,6 @@ div.social ul.media a{
     display: block;
     padding: 10px 16px;
 }
-
 
 div.social ul.media a i.fa-linkedin{
     color: #0077B5
