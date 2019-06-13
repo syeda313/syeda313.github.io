@@ -54,7 +54,6 @@ div.social ul.media{
     overflow: hidden;
 }
 div.social ul.media{
-    position: absolute;
     top: 40%;
     left: 50%;
     transform: translate(-50%, 50%);
@@ -89,7 +88,6 @@ div.social ul.media a i.fa-linkedin{
 div.social ul.media a i.fa-github{
     color: #211F1F;
 }
-
 
 p.copyright{
     position:absolute;
