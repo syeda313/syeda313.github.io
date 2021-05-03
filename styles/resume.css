@@ -60,6 +60,7 @@ p.year{
 li.project {
     list-style-type: none;
     font-style: italic;
+    font-weight: bold;
 }
 
 p{
@@ -78,8 +79,6 @@ a.file{
     transition: 0.2s;
     position: relative;
     top: 50%;
-    
-
 }
 a.file:hover{
     background-color: #59CDAB;
