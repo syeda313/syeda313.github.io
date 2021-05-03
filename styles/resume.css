@@ -56,10 +56,12 @@ p.year{
     font-size: 15px;
     
 }
-ul.work-2 li.project {
+
+li.project {
     list-style-type: none;
     font-style: italic;
 }
+
 p{
     font-family: 
 }
